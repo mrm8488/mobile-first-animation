@@ -28,8 +28,8 @@ const emails = [
   },
   {
     avatar: "M",
-    title: "Great sale",
-    message: "Act now to get your hands on...",
+    title: "Well done, Manu!",
+    message: "Manu, you made it so damn great...",
     id: 4
   },
   {
