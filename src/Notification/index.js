@@ -96,8 +96,8 @@ const NotificationDemo = () => {
             setNotificationVisible(false)
           }}
         >
-          <div>🐶</div>
-          <div>&nbsp;&nbsp;just saying hi</div>
+          <div>🐴</div>
+          <div>&nbsp;&nbsp;just saying Hi, Manu!</div>
         </Notification>
       )}
     </StyledContainer>
