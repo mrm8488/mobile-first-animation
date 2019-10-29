@@ -10,14 +10,14 @@ const tabs = [
   {
     tab: "Waterfall",
     img: images[0],
-    title: "Hidden Waterfall",
+    title: "Cascada Oculta",
     text:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam omnis commodi quo hic, architecto repellat veniam a tenetur debitis harum totam saepe necessitatibus! Eos dolores ad distinctio temporibus voluptates eaque?"
   },
   {
     tab: "Beach",
     img: images[24],
-    title: "Vibrant Beach",
+    title: "Playa Vibrante",
     text:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam omnis commodi quo hic, architecto repellat veniam a tenetur debitis harum totam saepe necessitatibus! Eos dolores ad distinctio temporibus voluptates eaque?"
   }
