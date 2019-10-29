@@ -73,6 +73,7 @@ function App() {
               return (
                 <StyledNav>
                   <h1>Touch-driven mobile animation examples</h1>
+                  <h6>Manuel Romero version™</h6>
                   <ul>
                     {routes.map(r => {
                       return (
